@@ -2,7 +2,7 @@
 
 ---
 
-## 🔥 sreen shot
+##  sreen shot
 
 ### 🔸 Login
 
